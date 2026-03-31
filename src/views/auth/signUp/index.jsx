@@ -22,7 +22,7 @@ import {
 import DefaultAuth from 'layouts/auth/Default';
 import { signup } from 'api/authApi';
 // Assets
-import illustration from 'assets/img/auth/auth-horizon.svg';
+import illustration from 'assets/img/auth/auth-horizon.svg?url';
 import { MdOutlineRemoveRedEye } from 'react-icons/md';
 import { RiEyeCloseLine } from 'react-icons/ri';
 
